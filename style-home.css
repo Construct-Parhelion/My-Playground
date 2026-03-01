@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: lime;
+    
+}
+.profileT {
+    border: solid;
+    border-color: lime;
+}
+.profileT2 {
+    border: solid;
+    border-color: lime;
+    text-align: center;
+    border-width: .1px;
+    border-radius: 100px;
+    
+}
+#l1 {
+    font-size: 60px;
+    text-align: center;
+    color: lime;
+}
+
+#linkYT {
+    color: white;
+}
+img {
+    border: solid;
+    border-color: lime;
+    ;
+}
+.button1{
+    background-color: lime;
+    color: darkblue;
+}
+.hr1 {
+    border: solid;
+    border-color: lime;
+}

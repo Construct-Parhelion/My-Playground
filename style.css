@@ -1,0 +1,14 @@
+body {
+    background-color: purple;
+    color: gold;
+}
+img {
+    border: solid;
+    border-color: gold;
+    ;
+}
+#backB {
+    background-color: gold;
+    color: purple;
+    border-radius: 40px;
+}
